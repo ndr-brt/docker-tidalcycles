@@ -1,0 +1,3 @@
+# docker-tidalcycles
+
+Tidalcycles dockerized!
